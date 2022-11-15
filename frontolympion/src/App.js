@@ -6,7 +6,7 @@ import Presents from "./Pages/Presents";
 import ServiceTransport from "./Pages/ServiceTransport/ServiceTransport";
 
 import Navig from "./Components/Navig";
-
+import Footer from "./Components/Footer";
 function App() {
   return (
     <div>
@@ -21,6 +21,7 @@ function App() {
             element={<ServiceTransport />}
           ></Route>
         </Routes>
+        <Footer />
       </Router>
     </div>
   );

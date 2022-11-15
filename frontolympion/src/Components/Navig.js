@@ -5,7 +5,7 @@ import Navbar from "react-bootstrap/Navbar";
 import React, { Component } from "react";
 
 function Navig() {
-  const logo = require("../Css/Images/logo.png");
+  const logo = require("../Css/Images/Logo_sponsors/logo.png");
   return (
     <Navbar bg="light" expand="lg">
       <Container>

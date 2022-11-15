@@ -1,0 +1,7 @@
+.size_footer {
+  margin: 5px;
+  padding: 5px;
+  height: 6vh;
+  object-fit: cover;
+  align-items: center;
+}
