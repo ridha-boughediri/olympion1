@@ -19,6 +19,7 @@ function Account() {
         <p class="info-profile">First Name : </p>
         <p class="info-profile">Last Name : </p>
         <p class="info-profile">Email : </p>
+        <p class="info-profile">Olympions : </p>
       </div>
 
       <div class="col-12 col-sm-12 col-md-6 col-lg-6 my-auto green-bloc">

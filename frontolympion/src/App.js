@@ -6,7 +6,7 @@ import Presents from "./Pages/Presents";
 import ServiceTransport from "./Pages/ServiceTransport/ServiceTransport";
 import Account from "./Pages/Account";
 import Navig from "./Components/Navig";
-
+import Footer from "./Components/Footer";
 function App() {
   return (
     <div>
@@ -22,6 +22,7 @@ function App() {
           ></Route>
           <Route path="/account" exact element={<Account />}></Route>
         </Routes>
+        <Footer />
       </Router>
     </div>
   );
