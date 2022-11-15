@@ -16,6 +16,10 @@ function Navig() {
           <Nav>
             <Nav.Link href="/">Accueil</Nav.Link>
             <Nav.Link href="/presents">Cadeaux</Nav.Link>
+            <Nav.Link href="/ServiceTransport">ServiceTransport</Nav.Link>
+            <Nav.Link href="/Account">Profil</Nav.Link>
+
+
           </Nav>
         </Navbar.Collapse>
       </Container>
