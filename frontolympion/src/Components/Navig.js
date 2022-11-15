@@ -1,6 +1,7 @@
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
+import logo from "../Css/logo.png";
 
 import React, { Component } from "react";
 
@@ -9,7 +10,7 @@ function Navig() {
     <Navbar bg="light" expand="lg">
       <Container>
         <Navbar.Brand href="https://dev.jo4marseille.fr/">
-          JO4Marseille
+          <img src={logo} alt="logo" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse>
