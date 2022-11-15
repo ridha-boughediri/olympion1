@@ -14,7 +14,6 @@ function App() {
         <Navig />
         <Routes>
           <Route path="/" exact element={<Home />}></Route>
-          <Route path="/transport" exact element={<Transport />}></Route>
           <Route path="/presents" exact element={<Presents />}></Route>
         </Routes>
       </Router>
