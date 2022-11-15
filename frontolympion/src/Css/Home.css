@@ -19,7 +19,7 @@ h1 {
 
 .background-slider {
   background-image: url("./Images/Logo_sponsors/marseille.jpeg");
-  height: 100vh;
+  height: 100vh !important;
   font-family: "poppins";
   font-size: 60px;
   color: #00004d;

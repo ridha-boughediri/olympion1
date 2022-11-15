@@ -13,7 +13,23 @@
 }
 
 .background-2 {
-    height:100vh;
+    font-family:'poppins';
+    font-size:60px;
+    color:#00004D;
+    padding-top:0px;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:0px;
+    max-width:100%;
+    line-height:90%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background-3 {
     font-family:'poppins';
     font-size:60px;
     color:#00004D;
