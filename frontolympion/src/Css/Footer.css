@@ -5,3 +5,8 @@
   object-fit: cover;
   align-items: center;
 }
+.footer_div {
+  border-top: solid 2px #00004d;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}

@@ -51,6 +51,21 @@ function Presents() {
     descritpion: "Maillot de heptatlon: 100 Oly",
     img: require("../Css/Images/Photo_athlètes/eunice_barber_heptatlon.jpg"),
   };
+  const juliette = {
+    type: "Juliette Labous",
+    descritpion: "Maillot de cyclisme: 100 Oly",
+    img: require("../Css/Images/Photo_athlètes/juliette_labous_velo.jpg"),
+  };
+  const marine = {
+    type: "Marine Johannes",
+    descritpion: "Chasuble de basket: 100 Oly",
+    img: require("../Css/Images/Photo_athlètes/marine_johannes_basket.jpg"),
+  };
+  const thomas = {
+    type: "Thomas Goyard",
+    descritpion: "Maillot de voile: 100 Oly",
+    img: require("../Css/Images/Photo_athlètes/thomas_goyard_voile.jpg"),
+  };
 
   const velo = {};
 
@@ -86,25 +101,13 @@ function Presents() {
             <Cards value={eunice} />
           </Col>
           <Col>
-            <Cards value={velo} />
+            <Cards value={juliette} />
           </Col>
           <Col>
-            <Cards value={velo} />
+            <Cards value={marine} />
           </Col>
           <Col>
-            <Cards value={velo} />
-          </Col>
-          <Col>
-            <Cards value={velo} />
-          </Col>
-          <Col>
-            <Cards value={velo} />
-          </Col>
-          <Col>
-            <Cards value={velo} />
-          </Col>
-          <Col>
-            <Cards value={velo} />
+            <Cards value={thomas} />
           </Col>
         </Row>
       </Container>

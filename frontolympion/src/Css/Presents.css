@@ -1,5 +1,8 @@
 .size_card {
   height: 40vh;
+}
+.size_image {
+  height: 40vh;
   object-fit: cover;
 }
 .background-slider {
@@ -9,4 +12,10 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.card_font_title {
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 30px;
 }
