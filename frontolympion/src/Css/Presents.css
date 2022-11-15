@@ -1,5 +1,6 @@
 .size_card {
-  height: 40vh;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 .size_image {
   height: 40vh;
@@ -16,6 +17,12 @@
 
 .card_font_title {
   font-weight: 700;
-  font-size: 40px;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.card_font_body {
+  font-weight: 200;
+  font-size: 15px;
   margin-bottom: 30px;
 }
