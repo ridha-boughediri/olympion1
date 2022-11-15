@@ -15,7 +15,6 @@ function Navig() {
         <Navbar.Collapse>
           <Nav>
             <Nav.Link href="/">Accueil</Nav.Link>
-            <Nav.Link href="/transport">Transports</Nav.Link>
             <Nav.Link href="/presents">Cadeaux</Nav.Link>
           </Nav>
         </Navbar.Collapse>

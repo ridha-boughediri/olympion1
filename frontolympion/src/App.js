@@ -2,7 +2,6 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./Pages/Home";
-import Transport from "./Pages/Transport";
 import Presents from "./Pages/Presents";
 import Account from "./Pages/Account";
 import Navig from "./Components/Navig";
