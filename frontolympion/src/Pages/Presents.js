@@ -70,7 +70,7 @@ function Presents() {
   const velo = {};
 
   return (
-    <div className="background-slider">
+    <div className="background-sliders">
       <Container>
         <Row>
           <Col>
