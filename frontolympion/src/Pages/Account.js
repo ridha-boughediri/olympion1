@@ -17,10 +17,10 @@ function Account() {
         <div class="row account-row">
           <div class="col-12 col-sm-12 col-md-6 col-lg-6 my-auto account-col-1">
             <p class="title-profile">Votre profil</p>
-            <p class="info-profile">Prénom: </p>
-            <p class="info-profile">Nom : </p>
-            <p class="info-profile">Email : </p>
-            <p class="info-profile">Olympions : </p>
+            <p class="info-profile">Prénom: Victor </p>
+            <p class="info-profile">Nom: Hugo </p>
+            <p class="info-profile">Email: victor.hugo@gmail.com </p>
+            <p class="info-profile">Olympions: 345 </p>
           </div>
 
           <div class="col-12 col-sm-12 col-md-6 col-lg-6 my-auto green-bloc"></div>
