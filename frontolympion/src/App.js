@@ -4,9 +4,8 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./Pages/Home";
 import Presents from "./Pages/Presents";
 import ServiceTransport from "./Pages/ServiceTransport/ServiceTransport";
-
-import Navig from "./Components/Navig";
 import Account from "./Pages/Account";
+import Navig from "./Components/Navig";
 
 function App() {
   return (
@@ -21,6 +20,7 @@ function App() {
             exact
             element={<ServiceTransport />}
           ></Route>
+          <Route path="/account" exact element={<Account />}></Route>
         </Routes>
       </Router>
     </div>
