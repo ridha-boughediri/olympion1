@@ -3,21 +3,9 @@ import "../Css/Account.css";
 import usersAPI from '../service/usersAPI';
 
 
-
-
-
-
-
-const [details,setDetails] = useState([]);
-
-
-
-
-
-
-
-
 function Account() {
+
+  const [details,setDetails] = useState([]);
 
 
   const refreshTaches = async () => {
