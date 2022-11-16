@@ -36,32 +36,25 @@ function Home() {
 
       <div class="container stat-container">
         <div class="row">
-          <div class="four col-md-3">
+          <div class="four col-md-4">
             <div class="counter-box colored-1">
               <i class="fa fa-thumbs-o-up"></i>
               <span class="counter">9147</span>
-              <p>Number of trips</p>
+              <p>Nombre de trajets</p>
             </div>
           </div>
-          <div class="four col-md-3">
+          <div class="four col-md-4">
             <div class="counter-box colored-2">
               <i class="fa fa-group"></i>
               <span class="counter">3275</span>
               <p>Participants</p>
             </div>
           </div>
-          <div class="four col-md-3">
+          <div class="four col-md-4">
             <div class="counter-box colored-3">
               <i class="fa  fa-shopping-cart"></i>
               <span class="counter">14289</span>
-              <p>Olympions collected</p>
-            </div>
-          </div>
-          <div class="four col-md-3">
-            <div class="counter-box colored-4">
-              <i class="fa  fa-user"></i>
-              <span class="counter">1563</span>
-              <p>Saved Trees</p>
+              <p>Olympions collectés</p>
             </div>
           </div>
         </div>
